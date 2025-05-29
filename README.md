@@ -1,6 +1,7 @@
 # TASK-3
 
 Linear Regression Analysis
+
 A comprehensive implementation of simple and multiple linear regression using Python for house price prediction. This project demonstrates fundamental machine learning concepts including data preprocessing, model training, evaluation, and visualization.
 
 Features:
